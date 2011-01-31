@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>include Mongoid::Document</string>
+	<key>name</key>
+	<string>include Mongoid::Document</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>mongo</string>
+	<key>uuid</key>
+	<string>C66207E2-2263-4BE1-A7B1-36F1327DFC2D</string>
+</dict>
+</plist>
