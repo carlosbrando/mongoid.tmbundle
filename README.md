@@ -12,8 +12,8 @@ To install without Git:
 
     mkdir -p ~/Library/Application\ Support/TextMate/Bundles
     cd ~/Library/Application\ Support/TextMate/Bundles
-    wget http://github.com/carlosbrando/mongoid.tmbundle/tarball/master
+    wget https://github.com/carlosbrando/mongoid.tmbundle/tarball/master
     tar zxf carlosbrando-mongoid.tmbundle*.tar.gz
     rm carlosbrando-mongoid.tmbundle*.tar.gz
-    mv carlosbrando-mongoid.tmbundle* "Ruby on Rails.tmbundle"
+    mv carlosbrando-mongoid.tmbundle* "Mongoid.tmbundle"
     osascript -e 'tell app "TextMate" to reload bundles'
