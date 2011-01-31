@@ -60,7 +60,7 @@
 	<key>repository</key>
 	<dict/>
 	<key>scopeName</key>
-	<string>source.ruby.rails.shoulda</string>
+	<string>source.ruby.rails.mongoid</string>
 	<key>uuid</key>
 	<string>7ED2CAAB-8CE7-4A09-9E66-1D622C60029B</string>
 </dict>
