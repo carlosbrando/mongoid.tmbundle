@@ -7,9 +7,32 @@
 		<key>items</key>
 		<array>
 			<string>96EDF405-80F4-40EE-A587-222F42D2FE2C</string>
+			<string>F8F384B5-6916-4FBE-828D-C136C97D241C</string>
 		</array>
 		<key>submenus</key>
 		<dict>
+			<key>5C7B244E-08DF-40EA-BCC8-0BDB769A34C4</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>93963F76-C798-4E09-979B-8E268C9AE6BD</string>
+				</array>
+				<key>name</key>
+				<string>Scopes</string>
+			</dict>
+			<key>61A34FDB-2A37-4D2C-A52F-4B3ED09BC30E</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>B06A34C3-85F0-4378-BCFC-FBE1CA8412CB</string>
+					<string>1421258A-C848-4072-BDED-16CA73E18975</string>
+					<string>9D04A2CE-B096-4304-B699-0D44B27F04D8</string>
+					<string>9F9362D0-366D-4076-AFD4-BD19C8FFF235</string>
+					<string>------------------------------------</string>
+				</array>
+				<key>name</key>
+				<string>Criteria Methods</string>
+			</dict>
 			<key>96EDF405-80F4-40EE-A587-222F42D2FE2C</key>
 			<dict>
 				<key>items</key>
@@ -17,14 +40,37 @@
 					<string>C66207E2-2263-4BE1-A7B1-36F1327DFC2D</string>
 					<string>------------------------------------</string>
 					<string>CE4F6346-E63F-4075-9059-843E23C63A3E</string>
+					<string>77177B0A-AABC-4040-9B22-76BDD48F9405</string>
 				</array>
 				<key>name</key>
 				<string>Documents</string>
+			</dict>
+			<key>F8F384B5-6916-4FBE-828D-C136C97D241C</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>61A34FDB-2A37-4D2C-A52F-4B3ED09BC30E</string>
+					<string>5C7B244E-08DF-40EA-BCC8-0BDB769A34C4</string>
+				</array>
+				<key>name</key>
+				<string>Querying</string>
 			</dict>
 		</dict>
 	</dict>
 	<key>name</key>
 	<string>Mongoid</string>
+	<key>ordering</key>
+	<array>
+		<string>7ED2CAAB-8CE7-4A09-9E66-1D622C60029B</string>
+		<string>CE4F6346-E63F-4075-9059-843E23C63A3E</string>
+		<string>77177B0A-AABC-4040-9B22-76BDD48F9405</string>
+		<string>C66207E2-2263-4BE1-A7B1-36F1327DFC2D</string>
+		<string>93963F76-C798-4E09-979B-8E268C9AE6BD</string>
+		<string>1421258A-C848-4072-BDED-16CA73E18975</string>
+		<string>9F9362D0-366D-4076-AFD4-BD19C8FFF235</string>
+		<string>B06A34C3-85F0-4378-BCFC-FBE1CA8412CB</string>
+		<string>9D04A2CE-B096-4304-B699-0D44B27F04D8</string>
+	</array>
 	<key>uuid</key>
 	<string>0384f4e0-2d7a-11e0-91fa-0800200c9a66</string>
 </dict>
