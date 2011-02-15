@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>order_by(${1::${2:last_name}.${3:desc}${4:, :${5:first_name}.${6:asc}}})</string>
+	<key>name</key>
+	<string>order_by</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>order</string>
+	<key>uuid</key>
+	<string>FA79D2BE-C70D-45A5-8431-C06CC7F9CD9E</string>
+</dict>
+</plist>
